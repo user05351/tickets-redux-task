@@ -1,3 +1,15 @@
+# Приложение для поиска авиабилетов с помощью React, Redux Toolkit и TypeScript.
+
+<ul><strong>Особенности приложения:</strong>
+  <li>Работа с фейковым серверным API с помощью async-thunk.</li>
+  <li>Сортировка билетов по цене, длительности перелёта и количеству пересадок.</li>
+  <li>Фильтрация по авиакомпаниям.</li>
+  <li>Фильтрация по количеству пересадок.</li>
+</ul>
+
+Вы можете использовать любой формат данных, но он должен поддерживать сортировку.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
